@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+
 canvas {
     box-shadow: black 20px 10px 50px;
 }
@@ -6,7 +8,7 @@ h1 {
     margin: 0px;
     margin-bottom: 10px;
     font-size: 2.9em;
-    font-family: Helvetica;
+    font-family: "Jersey 20", sans-serif;
 }
 
 body {
